@@ -1,0 +1,11 @@
+set = {"bang", "bang.", "poof!", "wow!", "Snap!"}
+print(set)
+
+dict = {"food": "apple",
+        "color": "red",
+        "taste": "sweet",
+        "expiry date": "07/11/23" }
+
+print(dict)
+print(dict["expiry date"])
+
